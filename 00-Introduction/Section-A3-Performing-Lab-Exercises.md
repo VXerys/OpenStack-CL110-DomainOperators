@@ -133,6 +133,8 @@ Lab exercises are at the heart of this course. They allow you to apply theoretic
      ```
      *This lists available exercises such as `administer-users`, `instances-cli`, and `deploy-overcloud-lab`.*
 
+     ![image](https://github.com/user-attachments/assets/5d2903c4-844f-49d4-bc37-1cb378406476)
+
 2. **Types of Exercises:**  
    - **Guided Exercises:** Follow the course narrative and perform practical tasks.
    - **End-of-Chapter Labs:** Gradable exercises designed to verify your learning outcomes.
