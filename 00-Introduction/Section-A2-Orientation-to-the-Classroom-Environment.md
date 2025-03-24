@@ -39,6 +39,8 @@ Welcome to my comprehensive learning journey through the **Red Hat OpenStack Adm
 
 ## Introduction & Orientation
 
+![image](https://github.com/user-attachments/assets/1f3180c1-42a0-49bb-9278-c7a598d7e36c)
+
 Welcome to the journey of mastering OpenStack administration!  
 In this course, we delve into the domain of managing and operating OpenStack environments. The course begins with an **orientation to the classroom environment**, ensuring that you understand the roles of different virtual machines (VMs) and how to interact with them using both graphical and command-line interfaces.
 
@@ -111,6 +113,8 @@ Understanding the available VMs and their credentials is key to managing the Ope
 
 ## Managing OpenStack Overclouds
 
+![image](https://github.com/user-attachments/assets/dccd8df4-095e-491b-ada1-ae950b9d1f07)
+
 Managing the overcloud in a classroom setting is a distinct process from production environments. This section covers the operational practices for maintaining overcloud clusters.
 
 ### Key Considerations
@@ -128,6 +132,8 @@ Managing the overcloud in a classroom setting is a distinct process from product
 ---
 
 ## Controlling Your Systems
+
+![image](https://github.com/user-attachments/assets/1175337f-ce44-426f-9eae-a1df3a3ce2e3)
 
 This section provides guidance on managing the state of your VMs through the web-based control panel provided in the classroom environment.
 
