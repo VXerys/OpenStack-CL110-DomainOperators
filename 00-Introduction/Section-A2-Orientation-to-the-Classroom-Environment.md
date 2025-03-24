@@ -1,5 +1,5 @@
 
-# Red Hat OpenStack Administration I: Core Operations for Domain
+# Section A.2: Orientation to the Classroom Environment
 
 Welcome to my comprehensive learning journey through the **Red Hat OpenStack Administration I: Core Operations for Domain** course. This documentation captures the course materials, lab exercises, quizzes, and guided exercises, serving as an enduring resource to revisit key concepts and practical skills in OpenStack administration.
 
