@@ -1,4 +1,4 @@
-# 🚀 Red Hat OpenStack Administration I: Core Operations for Domain Operators (CL110) 🚀  
+# 🚀 Section A.1: Red Hat OpenStack Administration I: Core Operations for Domain Operators (CL110) 🚀  
 
 Welcome to my learning journey through the **Red Hat OpenStack Administration I: Core Operations for Domain Operators** course! This README.md serves as a comprehensive documentation of the course materials, lab exercises, quizzes, and guided exercises. Whether you're revisiting key concepts or exploring OpenStack administration for the first time, this resource is designed to be thorough, accessible, and engaging.  
 
