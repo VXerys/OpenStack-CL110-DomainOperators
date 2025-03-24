@@ -1,4 +1,4 @@
-# Red Hat OpenStack Administration I: Core Operations for Domain
+# Section A.3: Performing Lab Exercises
 
 Welcome to my learning journey through the **Red Hat OpenStack Administration I: Core Operations for Domain** course. This comprehensive resource is designed to capture the key concepts, lab exercises, quizzes, and guided exercises encountered during the course. Whether you're revisiting foundational concepts or diving into practical lab work, this guide offers detailed explanations, best practices, and useful insights for mastering OpenStack administration.
 
